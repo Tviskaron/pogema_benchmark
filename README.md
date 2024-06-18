@@ -7,8 +7,8 @@ Welcome to the official repository for the POGEMA Benchmark. This is an umbrella
 This repository is organized into several key areas:
 
 - **Raw Data Directories**: Contains evaluation results for baseline approaches. Details include:
-  - [raw_data_LMAPF](https://github.com/Tviskaron/pogema_benchmark/tree/main/raw_data_LMAPF): Evaluation data for Less Multi-Agent Path Finding (LMAPF) challenges, including configurations and maps.
-  - [raw_data_MAPF](https://github.com/Tviskaron/pogema_benchmark/tree/main/raw_data_MAPF): Evaluation data for Multi-Agent Path Finding (MAPF) challenges, including configurations and maps.
+  - [raw_data_LMAPF](https://github.com/Tviskaron/pogema_benchmark/tree/main/raw_data_LMAPF):  LMAPF challenges, including configurations and maps.
+  - [raw_data_MAPF](https://github.com/Tviskaron/pogema_benchmark/tree/main/raw_data_MAPF): MAPF challenges, including configurations and maps.
   - Both directories feature YAML configuration files detailing the evaluation settings (number of agents, maps, seeds, episode length) and a `maps.yaml` file listing all the maps used in the evaluations.
 
 ## Installation
